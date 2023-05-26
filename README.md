@@ -16,4 +16,4 @@ da empresa.
 4. Rode o projeto e confira.
 
 ## Uso
-No App Bazzara você pode vizualizar diversos produtos divididos por categoria.
+No App Bazzar você pode vizualizar diversos produtos divididos por categoria.
