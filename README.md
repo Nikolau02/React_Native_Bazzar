@@ -17,3 +17,5 @@ da empresa.
 
 ## Uso
 No App Bazzar você pode vizualizar diversos produtos divididos por categoria.
+
+![Gif_Projeto_Bazzar](Gif_Projeto_Bazzar.gif)
