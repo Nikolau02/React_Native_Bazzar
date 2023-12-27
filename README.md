@@ -1,4 +1,6 @@
 # React_Native_Bazzar
+![Badge de Encerrado](https://img.shields.io/badge/status-Encerrado-red)
+
 Repositório para ao versionamento do App "Bazzar" destinado à venda de roupas online.
 
 ## Descrição
